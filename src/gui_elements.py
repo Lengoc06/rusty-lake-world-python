@@ -74,7 +74,8 @@ class Game(ttk.Frame):
         self.grid_columnconfigure(0, weight = 1)
         self.grid_columnconfigure(1, weight = 0)
         self.grid_columnconfigure(2, weight = 1)
-        self.grid_rowconfigure(3, weight = 1)
+        self.grid_rowconfigure(3, weight = 0)
+        self.grid_rowconfigure(4, weight = 1)
 
         ttk.Label(
             self,
@@ -114,8 +115,27 @@ class Game(ttk.Frame):
         )
         self.status_label.grid(row = 2, column = 1, pady = (0, 10))
 
+        self.header_frame = ttk.Frame(self, padding = 10, style = "Game.TFrame")
+        self.header_frame.grid(row = 3, column = 1, sticky = "ew") 
+
+        attribute_headers = ["Name", "Gender", "Status", "First Game", "Playable"]
+
+        for j, header_text in enumerate(attribute_headers):
+            header_label = ttk.Label(
+                self.header_frame,
+                text = header_text,
+                style = "Game.TLabel",
+                font = ("Consolas", 10, "bold"),
+                wraplength = 100,
+                borderwidth = 2,
+                width = 15,
+                anchor = "center"
+            )
+            self.header_frame.grid_columnconfigure(j, weight = 1) 
+            header_label.grid(row = 0, column = j, padx = 4, sticky = "nsew")
+
         self.grid_frame = ttk.Frame(self, padding = 10, style = "Game.TFrame")
-        self.grid_frame.grid(row = 3, column = 1, sticky = 'n')
+        self.grid_frame.grid(row = 4, column = 1, sticky = 'n')
 
         for i in range(MAX_GUESS):
             row_labels = []
@@ -280,4 +300,4 @@ class Game(ttk.Frame):
                 font = ("Consolas", 20, "bold")
             )
 
-        self.end_game_frame.grid(row = 4, column = 1, pady = 20)
+        self.end_game_frame.grid(row = 5, column = 1, pady = 20)
