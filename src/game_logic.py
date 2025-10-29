@@ -40,6 +40,7 @@ def load_data(file_path: str) -> Tuple[Dict[str, Character], List[str]]:
 def select_secret_character(data: Dict[str, Character]) -> Character:
     char = list(data.values())
     ans = random.choice(char)
+    # ans = data["Albert Vanderboom"]
     return ans
 
 def check(guess: Character, ans: Character) -> List:
