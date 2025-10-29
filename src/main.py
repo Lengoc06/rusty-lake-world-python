@@ -4,7 +4,7 @@ from ttkthemes import *
 
 if __name__ == "__main__":
     app = ThemedTk(theme = "supperhero")
-    app.title("Rusty Lake Guesser")
+    app.title("RustyLake-dle")
     app.configure(bg = BG_DARK)
     app.geometry("900x750")
     app.resizable(width = False, height = False)
