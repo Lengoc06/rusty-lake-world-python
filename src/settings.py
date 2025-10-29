@@ -10,8 +10,5 @@ YELLOW = "#FFC300"
 
 FILE_NAME = "asset/characters.json"
 
-TILESIZE = 80
-GAPSIZE = 10
-
 MAX_GUESS = 6
 MAX_TILES = 5
