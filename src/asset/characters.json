@@ -1,0 +1,318 @@
+[
+    {
+        "name": "Albert Vanderboom",
+        "family": "Vanderboom",
+        "gender": "Male",
+        "status": ["Corrupted", "Deceased", "Reborn"],
+        "first_game": "Rusty Lake: Roots",
+        "release_year": 2016,
+        "playable": false
+    },
+    {
+        "name": "Caroline Eilander",
+        "family": "Eilander",
+        "gender": "Female",
+        "status": ["Corrupted", "Unknown"],
+        "first_game": "Rusty Lake Paradise",
+        "release_year": 2018,
+        "playable": false
+    },
+    {
+        "name": "Dale Vandermeer",
+        "family": "Vandermeer",
+        "gender": "Male",
+        "status": ["Corrupted"],
+        "first_game": "Cube Escape: Case 23",
+        "release_year": 2015,
+        "playable": true
+    },
+    {
+        "name": "Dale's Grandfather",
+        "family": "Vandermeer",
+        "gender": "Male",
+        "status": ["Deceased"],
+        "first_game": "Cube Escape: Birthday",
+        "release_year": 2016,
+        "playable": false
+    },
+    {
+        "name": "David Eilander",
+        "family": "Eilander",
+        "gender": "Male",
+        "status": ["Unknown"],
+        "first_game": "Rusty Lake Paradise",
+        "release_year": 2018,
+        "playable": false
+    },
+    {
+        "name": "Elizabeth Eilander",
+        "family": "Vanderboom",
+        "gender": "Female",
+        "status": ["Unknown"],
+        "first_game": "Rusty Lake Paradise",
+        "release_year": 2018,
+        "playable": false
+    },
+    {
+        "name": "Emma Vanderboom",
+        "family": "Vanderboom",
+        "gender": "Female",
+        "species": "Human",
+        "status": ["Deceased"],
+        "first_game": "Rusty Lake: Roots",
+        "release_year": 2016,
+        "playable": false
+    },
+    {
+        "name": "Frank Vanderboom",
+        "family": "Vanderboom",
+        "gender": "Male",
+        "status": ["Deceased"],
+        "first_game": "Rusty Lake: Roots",
+        "release_year": 2016,
+        "playable": false
+    },
+    {
+        "name": "Gerard Eilander",
+        "family": "Eilander",
+        "gender": "Male",
+        "status": ["Unknown"],
+        "first_game": "Rusty Lake Paradise",
+        "release_year": 2018,
+        "playable": false
+    },
+    {
+        "name": "Harvey",
+        "family": "Unknown",
+        "gender": "Male",
+        "status": ["Alive"],
+        "first_game": "Cube Escape: Seasons",
+        "release_year": 2015,
+        "playable": true
+    },
+    {
+        "name": "Ida Vanderboom",
+        "family": "Vanderboom",
+        "gender": "Female",
+        "status": ["Deceased"],
+        "first_game": "Rusty Lake: Roots",
+        "release_year": 2016,
+        "playable": false
+    },
+    {
+        "name": "Jakob Eilander",
+        "family": "Eilander",
+        "gender": "Male",
+        "status": ["Reborn"],
+        "first_game": "Rusty Lake Paradise",
+        "release_year": 2018,
+        "playable": true
+    },
+    {
+        "name": "James Vanderboom",
+        "family": "Vanderboom",
+        "gender": "Male",
+        "status": ["Deceased"],
+        "first_game": "Rusty Lake: Roots",
+        "release_year": 2016,
+        "playable": false
+    },
+    {
+        "name": "Laura Vanderboom",
+        "family": "Vanderboom",
+        "gender": "Female",
+        "status": ["Deceased", "Corrupted", "Ascended"],
+        "first_game": "Cube Escape: The Lake",
+        "release_year": 2015,
+        "playable": true
+    },
+    {
+        "name": "Leonard Vanderboom",
+        "family": "Vanderboom",
+        "gender": "Male",
+        "status": ["Deceased"],
+        "first_game": "Rusty Lake: Roots",
+        "release_year": 2016,
+        "playable": false
+    },
+    {
+        "name": "Margaret Eilander",
+        "family": "Eilander",
+        "gender": "Female",
+        "status": ["Unknown"],
+        "first_game": "Rusty Lake Paradise",
+        "release_year": 2018,
+        "playable": false
+    },
+    {
+        "name": "Mary Vanderboom",
+        "family": "Vanderboom",
+        "gender": "Female",
+        "status": ["Deceased"],
+        "first_game": "Rusty Lake: Roots",
+        "release_year": 2016,
+        "playable": false
+    },
+    {
+        "name": "Mr. Bat",
+        "family":"Unknown",
+        "gender": "Male",
+        "status": ["Alive"],
+        "first_game": "Rusty Lake Hotel",
+        "release_year": 2015,
+        "playable": false
+    },
+    {
+        "name": "Mr. Boar",
+        "family": "Unknown",
+        "gender": "Male",
+        "status": ["Corrupted"],
+        "first_game": "Rusty Lake Hotel",
+        "release_year": 2015,
+        "playable": false
+    },
+    {
+        "name": "Mr. Crow",
+        "family": "Unknown",
+        "gender": "Male",
+        "status": ["Alive"],
+        "first_game": "Cube Escape: Harvey's Box",
+        "release_year": 2015,
+        "playable": true
+    },
+    {
+        "name": "Mr. Deer",
+        "family": "Unknown",
+        "gender": "Male",
+        "status": ["Corrupted"],
+        "first_game": "Rusty Lake Hotel",
+        "release_year": 2015,
+        "playable": false
+    },
+    {
+        "name": "Mr. Owl",
+        "family": "Unknown",
+        "gender": "Male",
+        "status": ["Alive"],
+        "first_game": "Cube Escape: The Mill",
+        "release_year": 2015,
+        "playable": false
+    },
+    {
+        "name": "Mr. Rabit",
+        "family": "Unknown",
+        "gender": "Male",
+        "status": ["Corrupted"],
+        "first_game": "Rusty Lake Hotel",
+        "release_year": 2015,
+        "playable": false
+    },
+    {
+        "name": "Mr. Toad",
+        "family": "Unknown",
+        "gender": "Male",
+        "status": ["Alive"],
+        "first_game": "Rusty Lake Hotel",
+        "release_year": 2015,
+        "playable": false
+    },
+    {
+        "name": "Mr. Vandermeer",
+        "family": "Vandermeer",
+        "gender": "Male",
+        "status": ["Deceased"],
+        "first_game": "Cube Escape: Birthday",
+        "release_year": 2016,
+        "playable": false
+    },
+    {
+        "name": "Mrs. Pigeon",
+        "family": "Unknown",
+        "gender": "Female",
+        "status": ["Corrupted"],
+        "first_game": "Rusty Lake Hotel",
+        "release_year": 2015,
+        "playable": false
+    },
+    {
+        "name": "Mrs. Vandermeer",
+        "family": "Vandermeer",
+        "gender": "Female",
+        "status": ["Deceased"],
+        "first_game": "Cube Escape: Birthday",
+        "release_year": 2016,
+        "playable": false
+    },
+    {
+        "name": "Ms. pheasant",
+        "family": "Unknown",
+        "gender": "Female",
+        "status": ["Corrupted"],
+        "first_game": "Rusty Lake Hotel",
+        "release_year": 2015,
+        "playable": false
+    },
+    {
+        "name": "Nicholas Eilander",
+        "family": "Eilander",
+        "gender": "Male",
+        "status": ["Unknown"],
+        "first_game": "Rusty Lake Paradise",
+        "release_year": 2018,
+        "playable": false
+    },
+    {
+        "name": "Paul Gauguin",
+        "family": "Unknown",
+        "gender": "Male",
+        "status": ["Deceased"],
+        "first_game": "Cube Escape: Arles",
+        "release_year": 2015,
+        "playable": false
+    },
+    {
+        "name": "Robert Hill",
+        "family": "Unknown",
+        "gender": "Male",
+        "status": ["Corrupted"],
+        "first_game": "Cube Escape: Case 23",
+        "release_year": 2015,
+        "playable": true
+    },
+    {
+        "name": "Rose Vanderboom",
+        "family": "Vanderboom",
+        "gender": "Female",
+        "status": ["Alive"],
+        "first_game": "Rusty Lake: Roots",
+        "release_year": 2016,
+        "playable": true
+    },
+    {
+        "name": "Samuel Vanderboom",
+        "family": "Vanderboom",
+        "gender": "Male",
+        "status": ["Deceased"],
+        "first_game": "Rusty Lake: Roots",
+        "release_year": 2016,
+        "playable": false
+    },
+    {
+        "name": "Vincent van Gogh",
+        "family": "Unknown",
+        "gender": "Male",
+        "status": ["Corrupted"],
+        "first_game": "Cube Escape: Arles",
+        "release_year": 2015,
+        "playable": true
+    },
+    {
+        "name": "William Vanderboom",
+        "family": "Vanderboom",
+        "gender": "Male",
+        "status": ["Corrupted", "Reborn"],
+        "first_game": "Rusty Lake: Roots",
+        "release_year": 2016,
+        "playable": true
+    }
+]
