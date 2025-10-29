@@ -61,17 +61,18 @@ git clone https://github.com/Lengoc06/rusty-lake-world-python.git
 cd rusty-lake-world-python
 ```
 
-Download Asset folder at: 
+Download Asset folder at: https://drive.google.com/file/d/1PDpGx7NX8DsrgHjuqo4hsjqOhL5Nweq4/view?usp=sharing
+
 Extract to the same folder as ```main.py```
 ```Bash
 # Folder Structure
 .
 ├── asset
-│ ├── answers.txt
-│ └── allowed.txt
+│ └── characters.json
 ├── main.py
 ├── settings.py
-├── sprite.py
+├── game_logic.py
+├── gui_elements.py
 └── ...
 ```
 
